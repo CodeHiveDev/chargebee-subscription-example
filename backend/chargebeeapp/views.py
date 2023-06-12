@@ -23,7 +23,7 @@ import datetime
 
 api_msg_obj = ApiResponseMessages()
 chargebee.configure(
-    "test_lZjjYibCadW28WhgSvxoSraEySgvpu8E", "fantasytech-test")
+    "live_wvEn5MLAanWcuctyiLsTWFe5T9KIkz0c1", "codehives")
 
 
 # chargebee.configure(
